@@ -1,11 +1,10 @@
 \input texinfo   @c -*-texinfo-*-
-@comment $Id$
-@comment %**start of header
+
 @setfilename aspell.info
 @settitle GNU Aspell 0.60
 @syncodeindex pg cp
 @documentencoding ISO-8859-1
-@comment %**end of header
+
 @copying
 This is the user's manual for Aspell
 

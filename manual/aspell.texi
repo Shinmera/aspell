@@ -1863,10 +1863,10 @@ compatibility Aspell also supports its own extensions.  All Aspell
 extensions follow the following format.
 
 @example
-$$@i{command} [@i{data}]
+$$@var{command} [@var{data}]
 @end example
 
-Where @kbd{@i{data}} may or may not be required depending on the
+Where @var{data} may or may not be required depending on the
 particular command.  Aspell currently supports the following commands:
 
 @multitable @columnfractions .33 .67
@@ -1888,6 +1888,7 @@ have the following format
 @i{num of items}: @i{item1}, @i{item2}, @i{etc}
 @end example
 
+FIXME: Add note about byte-offset option.
 
 @emph{(Part of the preceding section was directly copied out of
  the Ispell manual)}

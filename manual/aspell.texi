@@ -2847,6 +2847,12 @@ used.
 
 @include lang-supported.texi
 
+Dictionaries marked as @dfn{Yes} are available for Aspell 0.50.  Ones
+marked as @dfn{Experimental} are available for Aspell 0.60 only.  Ones
+marked as @dfn{Planned} should eventually be available (@pxref{Planned
+Dictionaries}).  Ones marked as @dfn{Maybe} might be available in the
+future.
+
 @appendixsubsec Notes on Latin Languages
 
 Any word that can be written using on of the Latin ISO-8859 character

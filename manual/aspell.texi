@@ -2775,8 +2775,11 @@ affix compression.
 
 The affix file is expected to be named @file{@var{lang}_affix.dat}.  It is
 the exact same format as those used by MySpell.  More information can
-be found at
+be found in the myspell/ directory of the distribution or at 
 @url{http://lingucomponent.openoffice.org/dictionary.html}.
+
+An existing word list can be "munched" using the @command{munch} program
+in the myspell/ directory.
 
 In order for Aspell to efficiently come up with with suggestions words
 are partially expanded when creating a dictionary.  They are expanded so

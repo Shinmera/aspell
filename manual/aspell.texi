@@ -1285,7 +1285,7 @@ UTF-8.
 To identify a key use:
 
 @example
-  key @var{base} @var{other} @dots{}
+key @var{base} @var{other} @dots{}
 @end example
 @noindent
 

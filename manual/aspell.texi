@@ -3173,7 +3173,6 @@ support.
 Ispell dictionaries are available for the following languages:
 
 @itemize
-@item Belarusian (be)
 @item Estonian (et)
 @end itemize
 
@@ -3184,13 +3183,23 @@ them:
 
 @itemize
 @item Asturian (ast)
-@item Cebuano (cb)
+@item Basque (eu)
+@item Cebuano (ceb)
 @item Chamorro (ch)
 @item Cornish (kw)
 @item Frisian (fy)
+@item Ganda (lg)
+@item Haitian Creole (ht)
 @item Hawaiian (haw)
+@item Kalaallisut (kl)
+@item Limburgish (li)
+@item Low Saxon (nds)
+@item Luganda (lg)
+@item Northern Sotho (nso)
 @item Occitan (oc)
+@item Southern Sotho (st)
 @item Tok Pisin (tpi)
+@item Venda (ve)
 @end itemize
 
 @noindent

@@ -78,6 +78,12 @@
 # Modifed to work with Aspell instead of Ispell
 #
 # $Log$
+# Revision 1.2  2004/06/02 15:07:36  kevina
+# Merged in changes from loadable-branch
+#
+# Revision 1.1.2.1  2004/05/17 01:57:00  kevina
+# Sync With HEAD
+#
 # Revision 1.1  2004/02/12 01:26:19  kevina
 #
 #

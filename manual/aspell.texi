@@ -3170,13 +3170,12 @@ support.
 @node Planned Dictionaries
 @appendixsec Notes on Planned Dictionaries
 
-MySpell or Ispell dictionaries are available for the following languages:
+Ispell dictionaries are available for the following languages:
 
 @itemize
 @item Belarusian (be)
 @item Estonian (et)
 @item Finnish (fi)
-@item Latin (la)
 @item Albanian (sq)
 @end itemize
 

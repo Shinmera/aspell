@@ -2188,9 +2188,9 @@ used.
 The base name of the keyboard definition file to use.  For more
 information see @ref{Notes on Typo-Analysis}.
 
-@item sug-split-chars
+@item sug-split-char
 
-A string of characters which specifies characters to insert between
+A list of characters which specifies characters to insert between
 two words when a word is split.  FIXME
 
 @item affix

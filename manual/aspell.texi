@@ -1453,7 +1453,10 @@ global @option{strip-accent} option this option only effects word
 lists that came after the option.  For example:
 
 @example
-strip-accents yes add english strip-accents no add must-accent
+strip-accents yes
+add english 
+strip-accents no 
+add must-accent
 @end example
 
 will strip accents from the English word list but not the

@@ -14,6 +14,7 @@
 
 #include <utility>
 #include <functional>
+#include <stddef.h>
 
 #include "settings.h"
 

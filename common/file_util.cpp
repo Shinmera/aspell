@@ -28,9 +28,10 @@
 #  include "minwin.h" //minimum windows declarations.
 #  include "asc_ctype.hpp"
 #  define F_OK 0 //does the file exist?
+#  include <dirent.h>
 #else
 #  include <unistd.h>
-#   include <dirent.h>
+#  include <dirent.h>
 #endif
 
 #if defined(_MSC_VER)

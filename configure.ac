@@ -256,7 +256,13 @@ then
     [AC_MSG_RESULT(no)])
 fi
 
-AM_LANGINFO_CODESET
+AC_MSG_CHECKING(if langinfo is supported)
+AC_TRY_LINK(
+  [#include <langinfo.h>],
+  [],
+  [AC_MSG_RESULT(yes)
+   AM_LANGINFO_CODESET],
+  [AC_MSG_RESULT(no)])
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                 #
